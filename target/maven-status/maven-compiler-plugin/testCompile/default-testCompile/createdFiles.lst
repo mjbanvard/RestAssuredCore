@@ -1,0 +1,4 @@
+com\skorpious\RestAssuredCore\LoginTest.class
+com\skorpious\utils\PayloadConverter.class
+com\skorpious\RestAssuredCore\RESTCalls.class
+com\skorpious\utils\URL.class
